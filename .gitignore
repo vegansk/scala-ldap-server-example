@@ -1,2 +1,11 @@
 *.class
 *.log
+.#*.*
+
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.ensime
+.ensime_cache/
